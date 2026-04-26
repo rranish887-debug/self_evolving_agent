@@ -1,0 +1,22 @@
+{
+  "math": {
+    "exploit_playbook": -0.8572784954814883,
+    "explore_new": -0.8533546275457684,
+    "retry_low_score": -0.8686865041128691
+  },
+  "logic": {
+    "exploit_playbook": -0.4172629850900245,
+    "explore_new": -0.42896629651437057,
+    "retry_low_score": -0.4159633580325158
+  },
+  "code": {
+    "exploit_playbook": -0.462352638044646,
+    "explore_new": -0.4427596547406921,
+    "retry_low_score": -0.5223766760319949
+  },
+  "general": {
+    "exploit_playbook": -0.506011792211766,
+    "explore_new": -0.7673403878341127,
+    "retry_low_score": -0.8042678836303392
+  }
+}

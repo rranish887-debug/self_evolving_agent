@@ -1,0 +1,10 @@
+[
+  {"query": "What is AI?", "category": "general"},
+  {"query": "Solve 2+2", "category": "math"},
+  {"query": "Write a Python loop", "category": "code"},
+  {"query": "Explain gravity", "category": "general"},
+  {"query": "Explain the difference between a list and a tuple in Python.", "category": "code"},
+  {"query": "Solve for x: 2x + 5 = 15", "category": "math"},
+  {"query": "How does photosynthesis work?", "category": "general"},
+  {"query": "What are the rules of Chess?", "category": "logic"}
+]

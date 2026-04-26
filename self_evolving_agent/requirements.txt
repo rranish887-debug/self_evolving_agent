@@ -1,0 +1,17 @@
+# Self-Evolving ACE Agent — Dependencies
+# ──────────────────────────────────────────
+# Core (original ACE)
+google-adk>=1.16.0
+pydantic>=2.0.0
+uvicorn
+fastapi
+
+# Self-evolving layer
+# (all stdlib or lightweight — no heavy ML framework required)
+# Optional: uncomment for advanced embedding similarity
+# faiss-cpu
+# sentence-transformers
+
+# Dashboard
+streamlit>=1.35.0
+pandas>=2.0.0
